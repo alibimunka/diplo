@@ -1,0 +1,425 @@
+0	3	1	Főfal	-1	 
+0	4	1	Főfal	-1	 
+0	5	1	Főfal	-1	 
+0	6	1	Főfal	-1	 
+0	7	1	Főfal	-1	 
+0	8	1	Főfal	-1	 
+0	9	1	Főfal	-1	 
+0	10	1	Főfal	-1	 
+0	11	1	Főfal	-1	 
+0	12	1	Főfal	-1	 
+0	13	1	Főfal	-1	 
+0	14	1	Főfal	-1	 
+0	15	1	Főfal	-1	 
+0	16	1	Főfal	-1	 
+0	17	1	Főfal	-1	 
+0	18	1	Főfal	-1	 
+0	19	1	Főfal	-1	 
+1	3	1	Főfal	-1	 
+1	4	1	Út	-8355712	u
+1	5	1	Út	-8355712	u
+1	6	1	Út	-8355712	u
+1	7	1	Út	-8355712	u
+1	8	1	Út	-8355712	u
+1	9	1	Út	-8355712	u
+1	10	1	Út	-8355712	u
+1	11	1	Út	-8355712	u
+1	12	1	Út	-8355712	u
+1	13	1	Út	-8355712	u
+1	14	1	Út	-8355712	u
+1	15	1	Út	-8355712	u
+1	16	1	Út	-8355712	u
+1	17	1	Út	-8355712	u
+1	18	1	Út	-8355712	u
+1	19	1	Főfal	-1	 
+2	3	1	Főfal	-1	 
+2	4	1	Út	-8355712	u
+2	5	1	Falap	-65536	p
+2	6	1	Faléc	-65536	p
+2	7	1	Falbrikett	-65536	p
+2	8	1	Tüzifa	-65536	p
+2	9	1	Faforgács	-65536	p
+2	10	1	Út	-8355712	u
+2	11	1	Út	-8355712	u
+2	12	1	Szinescsempe	-65536	p
+2	13	1	Szinescsempe	-65536	p
+2	14	1	Szinescsempe	-65536	p
+2	15	1	Mintáscsempe	-65536	p
+2	16	1	KisÚt	-8355712	u
+2	17	1	Egyébfürdőszoba	-65536	p
+2	18	1	Út	-8355712	u
+2	19	1	Főfal	-1	 
+3	3	1	Főfal	-1	 
+3	4	1	Út	-8355712	u
+3	5	1	Egyébfa	-65536	p
+3	6	1	Mellékfal	-1	 
+3	7	1	Mellékfal	-1	 
+3	8	1	Mellékfal	-1	 
+3	9	1	Építkezésifa	-65536	p
+3	10	1	Út	-8355712	u
+3	11	1	Út	-8355712	u
+3	12	1	Szürkecsempe	-65536	p
+3	13	1	Mellékfal	-1	 
+3	14	1	Mellékfal	-1	 
+3	15	1	Mintáscsempe	-65536	p
+3	16	1	KisÚt	-8355712	u
+3	17	1	Egyébfürdőszoba	-65536	p
+3	18	1	Út	-8355712	u
+3	19	1	Főfal	-1	 
+4	3	1	Főfal	-1	 
+4	4	1	Út	-8355712	u
+4	5	1	Egyébfa	-65536	p
+4	6	1	Egyébfa	-65536	p
+4	7	1	Egyébfa	-65536	p
+4	8	1	Egyébfa	-65536	p
+4	9	1	Egyébfa	-65536	p
+4	10	1	Út	-8355712	u
+4	11	1	Út	-8355712	u
+4	12	1	Fehércsempe	-65536	p
+4	13	1	Feketecsempe	-65536	p
+4	14	1	Mintáscsempe	-65536	p
+4	15	1	Mintáscsempe	-65536	p
+4	16	1	KisÚt	-8355712	u
+4	17	1	Egyébfürdőszoba	-65536	p
+4	18	1	Út	-8355712	u
+4	19	1	Főfal	-1	 
+5	3	1	Főfal	-1	 
+5	4	1	Út	-8355712	u
+5	5	1	KisÚt	-8355712	u
+5	6	1	KisÚt	-8355712	u
+5	7	1	KisÚt	-8355712	u
+5	8	1	KisÚt	-8355712	u
+5	9	1	KisÚt	-8355712	u
+5	10	1	Út	-8355712	u
+5	11	1	Út	-8355712	u
+5	12	1	KisÚt	-8355712	u
+5	13	1	KisÚt	-8355712	u
+5	14	1	KisÚt	-8355712	u
+5	15	1	KisÚt	-8355712	u
+5	16	1	KisÚt	-8355712	u
+5	17	1	Egyébfürdőszoba	-65536	p
+5	18	1	Út	-8355712	u
+5	19	1	Főfal	-1	 
+6	3	1	Főfal	-1	 
+6	4	1	Út	-8355712	u
+6	5	1	Törpe	-65536	p
+6	6	1	Kistörpe	-65536	p
+6	7	1	Nagytörpe	-65536	p
+6	8	1	Közepestörpe	-65536	p
+6	9	1	Karácsonyfa	-65536	p
+6	10	1	Út	-8355712	u
+6	11	1	Út	-8355712	u
+6	12	1	Fördőszobaszőnyeg	-65536	p
+6	13	1	Csap	-65536	p
+6	14	1	Kilépő	-65536	p
+6	15	1	Csaptelep	-65536	p
+6	16	1	KisÚt	-8355712	u
+6	17	1	Egyébfürdőszoba	-65536	p
+6	18	1	Út	-8355712	u
+6	19	1	Főfal	-1	 
+7	3	1	Főfal	-1	 
+7	4	1	Út	-8355712	u
+7	5	1	Egyébdekor	-65536	p
+7	6	1	Egyébdekor	-65536	p
+7	7	1	Egyébdekor	-65536	p
+7	8	1	Egyébdekor	-65536	p
+7	9	1	Egyébdekor	-65536	p
+7	10	1	Út	-8355712	u
+7	11	1	Út	-8355712	u
+7	12	1	Egyébfürdőszoba	-65536	p
+7	13	1	Egyébfürdőszoba	-65536	p
+7	14	1	Egyébfürdőszoba	-65536	p
+7	15	1	Egyébfürdőszoba	-65536	p
+7	16	1	KisÚt	-8355712	u
+7	17	1	Egyébfürdőszoba	-65536	p
+7	18	1	Út	-8355712	u
+7	19	1	Főfal	-1	 
+8	3	1	Főfal	-1	 
+8	4	1	Út	-8355712	u
+8	5	1	KisÚt	-8355712	u
+8	6	1	KisÚt	-8355712	u
+8	7	1	KisÚt	-8355712	u
+8	8	1	KisÚt	-8355712	u
+8	9	1	KisÚt	-8355712	u
+8	10	1	Út	-8355712	u
+8	11	1	Út	-8355712	u
+8	12	1	KisÚt	-8355712	u
+8	13	1	KisÚt	-8355712	u
+8	14	1	KisÚt	-8355712	u
+8	15	1	KisÚt	-8355712	u
+8	16	1	KisÚt	-8355712	u
+8	17	1	Egyébfürdőszoba	-65536	p
+8	18	1	Út	-8355712	u
+8	19	1	Főfal	-1	 
+9	3	1	Főfal	-1	 
+9	4	1	Út	-8355712	u
+9	5	1	Egyébbútor	-65536	p
+9	6	1	Egyébbútor	-65536	p
+9	7	1	Egyébbútor	-65536	p
+9	8	1	Egyébbútor	-65536	p
+9	9	1	Egyébbútor	-65536	p
+9	10	1	Út	-8355712	u
+9	11	1	Út	-8355712	u
+9	12	1	Seprű	-65536	p
+9	13	1	Cirokseprű	-65536	p
+9	14	1	Lapát	-65536	p
+9	15	1	Porszívó	-65536	p
+9	16	1	KisÚt	-8355712	u
+9	17	1	Egyébfürdőszoba	-65536	p
+9	18	1	Út	-8355712	u
+9	19	1	Főfal	-1	 
+10	3	1	Főfal	-1	 
+10	4	1	Út	-8355712	u
+10	5	1	Egyébbútor	-65536	p
+10	6	1	Mellékfal	-1	 
+10	7	1	Mellékfal	-1	 
+10	8	1	Mellékfal	-1	 
+10	9	1	Egyébbútor	-65536	p
+10	10	1	Út	-8355712	u
+10	11	1	Út	-8355712	u
+10	12	1	Egyébháztartásicikk	-65536	p
+10	13	1	Mellékfal	-1	 
+10	14	1	Mellékfal	-1	 
+10	15	1	Egyébháztartásicikk	-65536	p
+10	16	1	KisÚt	-8355712	u
+10	17	1	Egyébfürdőszoba	-65536	p
+10	18	1	Út	-8355712	u
+10	19	1	Főfal	-1	 
+11	3	1	Főfal	-1	 
+11	4	1	Út	-8355712	u
+11	5	1	Egyébbútor	-65536	p
+11	6	1	Egyébbútor	-65536	p
+11	7	1	Egyébbútor	-65536	p
+11	8	1	Egyébbútor	-65536	p
+11	9	1	Egyébbútor	-65536	p
+11	10	1	Út	-8355712	u
+11	11	1	Út	-8355712	u
+11	12	1	Egyébháztartásicikk	-65536	p
+11	13	1	Egyébháztartásicikk	-65536	p
+11	14	1	Egyébháztartásicikk	-65536	p
+11	15	1	Egyébháztartásicikk	-65536	p
+11	16	1	Út	-8355712	u
+11	17	1	Út	-8355712	u
+11	18	1	Út	-8355712	u
+11	19	1	Főfal	-1	 
+12	3	1	Főfal	-1	 
+12	4	1	Út	-8355712	u
+12	5	1	KisÚt	-8355712	u
+12	6	1	KisÚt	-8355712	u
+12	7	1	KisÚt	-8355712	u
+12	8	1	KisÚt	-8355712	u
+12	9	1	KisÚt	-8355712	u
+12	10	1	Út	-8355712	u
+12	11	1	Út	-8355712	u
+12	12	1	Út	-8355712	u
+12	13	1	Út	-8355712	u
+12	14	1	Út	-8355712	u
+12	15	1	Út	-8355712	u
+12	16	1	Út	-8355712	u
+12	17	1	Út	-8355712	u
+12	18	1	Út	-8355712	u
+12	19	1	Bejárat	-4144960	b
+13	3	1	Főfal	-1	 
+13	4	1	Út	-8355712	u
+13	5	1	Pirosfesték	-65536	p
+13	6	1	Kékfesték	-65536	p
+13	7	1	Feketefesték	-65536	p
+13	8	1	Barnafesték	-65536	p
+13	9	1	Rózsaszínfesték	-65536	p
+13	10	1	Út	-8355712	u
+13	11	1	Út	-8355712	u
+13	12	1	Út	-8355712	u
+13	13	1	Út	-8355712	u
+13	14	1	Út	-8355712	u
+13	15	1	Út	-8355712	u
+13	16	1	Út	-8355712	u
+13	17	1	Út	-8355712	u
+13	18	1	Út	-8355712	u
+13	19	1	Kijárat	-12566464	k
+14	3	1	Főfal	-1	 
+14	4	1	Út	-8355712	u
+14	5	1	Egyébfesték	-65536	p
+14	6	1	Mellékfal	-1	 
+14	7	1	Mellékfal	-1	 
+14	8	1	Mellékfal	-1	 
+14	9	1	Egyébfesték	-65536	p
+14	10	1	Út	-8355712	u
+14	11	1	Út	-8355712	u
+14	12	1	Fúró	-65536	p
+14	13	1	Fűrész	-65536	p
+14	14	1	Bojler	-65536	p
+14	15	1	Egyébműszakicikk	-65536	p
+14	16	1	Út	-8355712	u
+14	17	1	Út	-8355712	u
+14	18	1	Út	-8355712	u
+14	19	1	Főfal	-1	 
+15	3	1	Főfal	-1	 
+15	4	1	Út	-8355712	u
+15	5	1	Egyébfesték	-65536	p
+15	6	1	Egyébfesték	-65536	p
+15	7	1	Egyébfesték	-65536	p
+15	8	1	Egyébfesték	-65536	p
+15	9	1	Egyébfesték	-65536	p
+15	10	1	Út	-8355712	u
+15	11	1	Út	-8355712	u
+15	12	1	Ütvefúró	-65536	p
+15	13	1	Mellékfal	-1	 
+15	14	1	Mellékfal	-1	 
+15	15	1	Egyébműszakicikk	-65536	p
+15	16	1	KisÚt	-8355712	u
+15	17	1	Egyébkert	-65536	p
+15	18	1	Út	-8355712	u
+15	19	1	Főfal	-1	 
+16	3	1	Főfal	-1	 
+16	4	1	Út	-8355712	u
+16	5	1	KisÚt	-8355712	u
+16	6	1	KisÚt	-8355712	u
+16	7	1	KisÚt	-8355712	u
+16	8	1	KisÚt	-8355712	u
+16	9	1	KisÚt	-8355712	u
+16	10	1	Út	-8355712	u
+16	11	1	Út	-8355712	u
+16	12	1	Csempevágó	-65536	p
+16	13	1	Mellékfal	-1	 
+16	14	1	Mellékfal	-1	 
+16	15	1	Egyébműszakicikk	-65536	p
+16	16	1	KisÚt	-8355712	u
+16	17	1	Egyébkert	-65536	p
+16	18	1	Út	-8355712	u
+16	19	1	Főfal	-1	 
+17	3	1	Főfal	-1	 
+17	4	1	Út	-8355712	u
+17	5	1	Alvólámpa	-65536	p
+17	6	1	Álólámpa	-65536	p
+17	7	1	Ülőlámpa	-65536	p
+17	8	1	Kertilámpa	-65536	p
+17	9	1	LED	-65536	p
+17	10	1	Út	-8355712	u
+17	11	1	Út	-8355712	u
+17	12	1	Üvegvágó	-65536	p
+17	13	1	Egyébműszakicikk	-65536	p
+17	14	1	Egyébműszakicikk	-65536	p
+17	15	1	Egyébműszakicikk	-65536	p
+17	16	1	KisÚt	-8355712	u
+17	17	1	Egyébkert	-65536	p
+17	18	1	Út	-8355712	u
+17	19	1	Főfal	-1	 
+18	3	1	Főfal	-1	 
+18	4	1	Út	-8355712	u
+18	5	1	Egyéblámpa	-65536	p
+18	6	1	Egyéblámpa	-65536	p
+18	7	1	Egyéblámpa	-65536	p
+18	8	1	Egyéblámpa	-65536	p
+18	9	1	Egyéblámpa	-65536	p
+18	10	1	Út	-8355712	u
+18	11	1	Út	-8355712	u
+18	12	1	KisÚt	-8355712	u
+18	13	1	KisÚt	-8355712	u
+18	14	1	KisÚt	-8355712	u
+18	15	1	KisÚt	-8355712	u
+18	16	1	KisÚt	-8355712	u
+18	17	1	Egyébkert	-65536	p
+18	18	1	Út	-8355712	u
+18	19	1	Főfal	-1	 
+19	3	1	Főfal	-1	 
+19	4	1	Út	-8355712	u
+19	5	1	KisÚt	-8355712	u
+19	6	1	KisÚt	-8355712	u
+19	7	1	KisÚt	-8355712	u
+19	8	1	KisÚt	-8355712	u
+19	9	1	KisÚt	-8355712	u
+19	10	1	Út	-8355712	u
+19	11	1	Út	-8355712	u
+19	12	1	Bicikli	-65536	p
+19	13	1	Kismotor	-65536	p
+19	14	1	Autóülés	-65536	p
+19	15	1	Autóülésbélés	-65536	p
+19	16	1	KisÚt	-8355712	u
+19	17	1	Egyébkert	-65536	p
+19	18	1	Út	-8355712	u
+19	19	1	Főfal	-1	 
+20	3	1	Főfal	-1	 
+20	4	1	Út	-8355712	u
+20	5	1	Villanykapcsoló	-65536	p
+20	6	1	Konektor	-65536	p
+20	7	1	Elosztó	-65536	p
+20	8	1	Fénycső	-65536	p
+20	9	1	Kapcsoló	-65536	p
+20	10	1	Út	-8355712	u
+20	11	1	Út	-8355712	u
+20	12	1	Biciklilámpa	-65536	p
+20	13	1	Autósalkatrészek	-65536	p
+20	14	1	Autósalkatrészek	-65536	p
+20	15	1	Autósalkatrészek	-65536	p
+20	16	1	KisÚt	-8355712	u
+20	17	1	Egyébkert	-65536	p
+20	18	1	Út	-8355712	u
+20	19	1	Főfal	-1	 
+21	3	1	Főfal	-1	 
+21	4	1	Út	-8355712	u
+21	5	1	KisÚt	-8355712	u
+21	6	1	KisÚt	-8355712	u
+21	7	1	KisÚt	-8355712	u
+21	8	1	KisÚt	-8355712	u
+21	9	1	KisÚt	-8355712	u
+21	10	1	Út	-8355712	u
+21	11	1	Út	-8355712	u
+21	12	1	KisÚt	-8355712	u
+21	13	1	KisÚt	-8355712	u
+21	14	1	KisÚt	-8355712	u
+21	15	1	KisÚt	-8355712	u
+21	16	1	KisÚt	-8355712	u
+21	17	1	Egyébkert	-65536	p
+21	18	1	Út	-8355712	u
+21	19	1	Főfal	-1	 
+22	3	1	Főfal	-1	 
+22	4	1	Út	-8355712	u
+22	5	1	Malter	-65536	p
+22	6	1	Tégla	-65536	p
+22	7	1	Martel	-65536	p
+22	8	1	Beton	-65536	p
+22	9	1	KisÚt	-8355712	u
+22	10	1	Öntözőkanna	-65536	p
+22	11	1	Öntözőrendszer	-65536	p
+22	12	1	KisÚt	-8355712	u
+22	13	1	Fűnyíró	-65536	p
+22	14	1	Öntözőrendszer	-65536	p
+22	15	1	Mászóka	-65536	p
+22	16	1	Hinta	-65536	p
+22	17	1	Egyébkert	-65536	p
+22	18	1	Út	-8355712	u
+22	19	1	Főfal	-1	 
+23	3	1	Főfal	-1	 
+23	4	1	Út	-8355712	u
+23	5	1	Út	-8355712	u
+23	6	1	Út	-8355712	u
+23	7	1	Út	-8355712	u
+23	8	1	Út	-8355712	u
+23	9	1	Út	-8355712	u
+23	10	1	Út	-8355712	u
+23	11	1	Út	-8355712	u
+23	12	1	Út	-8355712	u
+23	13	1	Út	-8355712	u
+23	14	1	Út	-8355712	u
+23	15	1	Út	-8355712	u
+23	16	1	Út	-8355712	u
+23	17	1	Út	-8355712	u
+23	18	1	Út	-8355712	u
+23	19	1	Főfal	-1	 
+24	3	1	Főfal	-1	 
+24	4	1	Főfal	-1	 
+24	5	1	Főfal	-1	 
+24	6	1	Főfal	-1	 
+24	7	1	Főfal	-1	 
+24	8	1	Főfal	-1	 
+24	9	1	Főfal	-1	 
+24	10	1	Főfal	-1	 
+24	11	1	Főfal	-1	 
+24	12	1	Főfal	-1	 
+24	13	1	Főfal	-1	 
+24	14	1	Főfal	-1	 
+24	15	1	Főfal	-1	 
+24	16	1	Főfal	-1	 
+24	17	1	Főfal	-1	 
+24	18	1	Főfal	-1	 
+24	19	1	Főfal	-1	 
